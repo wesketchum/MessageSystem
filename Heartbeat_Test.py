@@ -7,7 +7,7 @@ server = RabbitMQ_Server()
 
 server.StartServer()
 
-time.sleep(5)
+time.sleep(3)
 
 server.StopServer()
 
